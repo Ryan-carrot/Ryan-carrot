@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">Technical Support Engineer @ Carrot</h3>
+<p align="center"><a href="https://u8views.com/github/Ryan-carrot"><img src="https://u8views.com/api/v1/github/profiles/66268954/views/day-week-month-total-count.svg"></a></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryan-carrot" alt="ryan-carrot" /></a> </p>
 
