@@ -3,21 +3,21 @@
 <p align="center"><a href="https://u8views.com/github/Ryan-carrot"><img src="https://u8views.com/api/v1/github/profiles/66268954/views/day-week-month-total-count.svg"></a></p>
 
 
-- 🔭 I’m currently working on [Pantry Roulette](https://github.com/Ryan-carrot/pantry-roulette)
+- 🔭 I’m currently working on: [Pantry Roulette](https://github.com/Ryan-carrot/pantry-roulette), Queued (private build for now), Ki-Reader (private build for now), [Hexry Development](https://github.com/Ryan-carrot/ryan-portfolio)
 
-- 🌱 I’m currently learning **React, JavaScript, Supabase, WordPress, PHP, TypeScript**
+- 🌱 I’m currently learning: **React, JavaScript, Supabase, WordPress, PHP, TypeScript**
 
-- 👯 I’m looking to collaborate on [Pantry Roulette](https://github.com/Ryan-carrot/pantry-roulette)
+- 👯 I’m looking to collaborate on: [Pantry Roulette](https://github.com/Ryan-carrot/pantry-roulette)
 
-- 🤝 I’m looking for help with [Pantry Roulette](https://github.com/Ryan-carrot/pantry-roulette)
+- 🤝 I’m looking for help with: [Pantry Roulette](https://github.com/Ryan-carrot/pantry-roulette)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ryan-carrot?tab=repositories](https://github.com/Ryan-carrot?tab=repositories)
+- 👨‍💻 All of my projects are available at: [https://github.com/Ryan-carrot?tab=repositories](https://github.com/Ryan-carrot?tab=repositories)
 
-- 💬 Ask me about **Web Dev, JavaScript**
+- 💬 Ask me about: **Web Dev, JavaScript**
 
-- 📫 How to reach me **pantryrouletteofficial@gmail.com**
+- 📫 How to reach me: **hexrydevelopment@gmail.com**
 
-- ⚡ Fun fact **I have too many hobbies**
+- ⚡ Fun fact: **I have too many hobbies**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
